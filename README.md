@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, hola! I am Angela 👋 👩🏻‍💻  
 
+I am a biologist interested in how organisms respond and adapt to environmental and anthropogenic change, and in how ecological and evolutionary processes shape genetic diversity on various spatial and temporal scales. My goal is to leverage the power of genomics, bioinformatics, and landscape analysis to address these questions and to develop genetic tools that can help inform conservation and management efforts.
+
+I am currently a postdoctoral researcher in the Leif Andersson group at Uppsala University, Sweden. I completed my PhD at Dalhousie University, Canada, and my BSc at the Universidad del Valle, Colombia.
 <!--
 **apfuentes/apfuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
