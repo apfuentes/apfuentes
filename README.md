@@ -1,8 +1,9 @@
 ### Hi, hola! I am Angela 👋 👩🏻‍💻  
 
-I am a biologist interested in how organisms respond and adapt to environmental and anthropogenic change, and in how ecological and evolutionary processes shape genetic diversity on various spatial and temporal scales. My goal is to leverage the power of genomics, bioinformatics, and landscape analysis to address these questions and to develop genetic tools that can help inform conservation and management efforts.
+I am a biologist with a PhD, specialized in bioinformatics, genomics, data visualization, and data stewardship. I have 10+ years of experience leading research projects in the academic sector. I am passionate about applying my computational and organisational skills to extract valuable information from large and complex data sets to solve practical problems.
 
-I am currently a postdoctoral researcher in the Leif Andersson group at Uppsala University, Sweden. I completed my PhD at Dalhousie University, Canada, and my BSc at the Universidad del Valle, Colombia.
+I am currently a data steward / bioinformatician at SciLifeLab Data Centre in Uppsala, Sweden. Previously, I was a postdoctoral researcher in the Leif Andersson group at Uppsala University, Sweden. I completed my PhD at Dalhousie University, Canada, and my BSc at ​Universidad del Valle, Colombia.
+
 <!--
 **apfuentes/apfuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
