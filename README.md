@@ -1,4 +1,4 @@
-### Hej, hi, hola! I am Angela 👋 👩🏻‍💻  
+### Hi, hej, hola! I am Angela 👋 👩🏻‍💻  
 
 I am a biologist with a PhD, specialized in bioinformatics, genomics, data visualization, and data stewardship. I have 10+ years of experience leading research projects in the academic sector. I am passionate about applying my computational and organisational skills to extract valuable information from large and complex data sets to solve practical problems.
 
